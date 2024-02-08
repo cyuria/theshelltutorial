@@ -1,6 +1,15 @@
 # The UNIX Shell (And others)
 
+## Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [An Introduction](#an-introduction)
+  - [What is the Shell?](#what-is-the-shell)
+  - [What is a Command?](#what-is-a-command)
+
 ## An Introduction
+
+### What is the Shell?
 
 First let's define what a "shell" is.
 
@@ -34,4 +43,8 @@ sense, so here's a picture to help you out.
 
 As you can see, the earlier command was typed, the contents of the "Downloads"
 folder were displayed and a new line was placed ready for the next command.
+
+### What is a Command?
+
+
 
